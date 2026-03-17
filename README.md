@@ -1,8 +1,79 @@
-<h1 align="center">Senior Software Engineer</h1>
-<h3 align="center">Experienced full-stack engineer with a proven track record of delivering high-quality, scalable applications.</h3>
+# 👋 Hi, I'm Amit
 
+### 🚀 Senior Python AI/ML Engineer | Machine Learning • LLM • RAG • GenAI • Cloud
+---
 
-With over 10 years of experience in IT and software development, I specialize in modern JavaScript frameworks—delivering scalable, high-performance solutions for web and enterprise applications with exceptional speed and quality. My expertise spans full-stack development, system architecture, and technical leadership, strongly focusing on building complex, data-driven platforms across industries such as ERP, healthcare, finance, HR, e-commerce, and inventory management. My strengths include fast-paced execution, clean and maintainable code, data migration, technical documentation, UML design, and building reusable components that enhance system performance.
+## 🧠 About Me
 
+Senior Python AI/ML Engineer with **9+ years of experience** building intelligent systems across **HealthTech, FinTech, Real Estate, and AI automation** domains.
 
-React.js / Next.js / Vue.js (2/3) / Nuxt.js / AngularJS / JavaScript (ES6+) / TypeScript / Redux / Redux Toolkit / Pinia / NgRx / RxJS / Context API / React Router / Vue Router / Angular Router / Tailwind CSS / Sass / SCSS / Styled Components / Material-UI / Ant Design / PrimeNG / Framer Motion / Chart.js / D3.js / Highcharts / Node.js / Express.js / NestJS / REST APIs / GraphQL / WebSockets / Socket.IO / SignalR / Ably / Pusher / ActionCable / Phoenix Channels / JWT / OAuth 2.0 / Passport.js / Bcrypt.js / Rate Limiting / CORS / API Gateway / MongoDB / Mongoose / Couchbase / Cosmos DB / Firebase Firestore / PostgreSQL / MySQL / SQL Server / Oracle / DynamoDB / Prisma / Sequelize / Redis / AWS (EC2, S3, Lambda, RDS, CloudFront, API Gateway, Cognito, Route 53, CloudWatch) / Azure (App Services, Blob Storage, Cosmos DB, SQL Database, Functions, DevOps Pipelines) / GCP (GCE, GCS, Firestore, BigQuery) / Docker / Kubernetes / NGINX / GitHub Actions / GitLab CI/CD / Jenkins / PM2 / Vercel / Netlify / Heroku / Firebase Hosting / Cypress / Jest / Mocha / Chai / Jasmine / Karma / React Testing Library / Supertest / Postman / Swagger / OpenAPI / ESLint / Prettier / Webpack / Vite / Babel / Git / GitHub / GitLab / Bitbucket / Agile / Scrum / Sprint Planning / Jira / Trello / Confluence / Microservices / Monorepos / Serverless Framework / PWA / Service Workers / Webhooks / JSON / YAML / NPM / Yarn / TDD / BDD / Clean Architecture / MVC / MVVM / Twilio / Stripe API / SendGrid / Mailgun / Firebase Cloud Messaging / AWS API Gateway / Azure API Management / GraphQL API / RESTful API / Auth0 / Sentry / Algolia / Zapier / Trello API / Google Maps API / Plaid API
+I specialize in:
+- Machine Learning & Deep Learning
+- Large Language Models (LLMs) & RAG systems
+- Computer Vision & NLP
+- Scalable AI backend systems & cloud infrastructure
+
+I focus on delivering **production-grade AI solutions** that enable:
+- Automation
+- Predictive analytics
+- Intelligent decision-making
+
+---
+
+## ⚡ Core Expertise
+
+### 🤖 AI / Machine Learning
+- Machine Learning, Deep Learning
+- LLMs, RAG, Generative AI
+- TensorFlow, PyTorch, Keras, Scikit-learn
+- NLP, Computer Vision
+- Feature Engineering, Model Optimization
+- Hyperparameter Tuning, Model Evaluation
+
+### 📊 Data Engineering
+- Data Pipelines, ETL Pipelines
+- Pandas, NumPy, PySpark
+- Apache Airflow
+- Data Lakes & Warehousing
+- Distributed Data Processing
+
+### ⚙️ AI Infrastructure
+- FastAPI, Flask
+- AI Microservices
+- Real-time Inference Systems
+- ML Pipelines, Model Monitoring
+- Experiment Tracking (MLflow)
+
+### 🗄️ Databases
+- PostgreSQL, MySQL
+- MongoDB, DynamoDB
+- Snowflake, BigQuery
+- Redis, Elasticsearch
+
+### ☁️ Cloud & MLOps
+- AWS (S3, EC2, Lambda, SageMaker, RDS)
+- Docker, Kubernetes
+- CI/CD Pipelines
+- Model Deployment & Scaling
+- GitHub Actions
+
+---
+
+## 🔥 Key Projects & Focus Areas
+
+- 🧠 RAG-based AI Systems for intelligent search & knowledge retrieval  
+- 💬 Conversational AI Platforms using LLMs & OpenAI APIs  
+- 📊 Predictive Analytics & Recommendation Engines  
+- 👁️ Computer Vision Models for real-world applications  
+- ⚙️ End-to-End ML Pipelines (training → deployment → monitoring)  
+
+---
+
+## 🧰 Tools & Technologies
+
+```bash
+Python • TensorFlow • PyTorch • Scikit-learn • FastAPI • Flask  
+Pandas • NumPy • PySpark • Airflow • MLflow  
+AWS • Docker • Kubernetes • CI/CD  
+PostgreSQL • MongoDB • Snowflake • Redis  
+OpenAI API • REST APIs • Linux • Git
