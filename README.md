@@ -1,79 +1,85 @@
 # 👋 Hi, I'm Amit
 
-### 🚀 Senior Python AI/ML Engineer | Machine Learning • LLM • RAG • GenAI • Cloud
----
+### Senior Software Engineer | MERN • Python • AI • Cloud
 
-## 🧠 About Me
-
-Senior Python AI/ML Engineer with **9+ years of experience** building intelligent systems across **HealthTech, FinTech, Real Estate, and AI automation** domains.
-
-I specialize in:
-- Machine Learning & Deep Learning
-- Large Language Models (LLMs) & RAG systems
-- Computer Vision & NLP
-- Scalable AI backend systems & cloud infrastructure
-
-I focus on delivering **production-grade AI solutions** that enable:
-- Automation
-- Predictive analytics
-- Intelligent decision-making
+Building scalable web applications, AI-powered platforms, and high-performance backend systems with modern JavaScript and Python ecosystems.
 
 ---
 
-## ⚡ Core Expertise
+## 🚀 About Me
 
-### 🤖 AI / Machine Learning
-- Machine Learning, Deep Learning
-- LLMs, RAG, Generative AI
-- TensorFlow, PyTorch, Keras, Scikit-learn
-- NLP, Computer Vision
-- Feature Engineering, Model Optimization
-- Hyperparameter Tuning, Model Evaluation
+Senior Software Engineer with 8+ years of experience designing, developing, and scaling enterprise-grade applications across FinTech, HealthTech, SaaS, Real Estate, and AI-driven products.
 
-### 📊 Data Engineering
-- Data Pipelines, ETL Pipelines
-- Pandas, NumPy, PySpark
-- Apache Airflow
-- Data Lakes & Warehousing
-- Distributed Data Processing
+My primary expertise is centered around the **MERN ecosystem**, while also leveraging modern frontend frameworks, cloud-native architectures, and AI technologies to build intelligent, user-focused solutions.
 
-### ⚙️ AI Infrastructure
-- FastAPI, Flask
-- AI Microservices
-- Real-time Inference Systems
-- ML Pipelines, Model Monitoring
-- Experiment Tracking (MLflow)
-
-### 🗄️ Databases
-- PostgreSQL, MySQL
-- MongoDB, DynamoDB
-- Snowflake, BigQuery
-- Redis, Elasticsearch
-
-### ☁️ Cloud & MLOps
-- AWS (S3, EC2, Lambda, SageMaker, RDS)
-- Docker, Kubernetes
-- CI/CD Pipelines
-- Model Deployment & Scaling
-- GitHub Actions
+- 💻 Full-Stack Development with MERN Stack
+- ⚡ High-Performance React & Next.js Applications
+- 🎯 Scalable Node.js & Python Backend Systems
+- 🤖 AI/ML, LLM, RAG & Generative AI Integration
+- ☁️ AWS, Docker, Kubernetes & DevOps
+- 📈 Performance Optimization & System Design
 
 ---
 
-## 🔥 Key Projects & Focus Areas
+## 🛠 Tech Stack
 
-- 🧠 RAG-based AI Systems for intelligent search & knowledge retrieval  
-- 💬 Conversational AI Platforms using LLMs & OpenAI APIs  
-- 📊 Predictive Analytics & Recommendation Engines  
-- 👁️ Computer Vision Models for real-world applications  
-- ⚙️ End-to-End ML Pipelines (training → deployment → monitoring)  
+### Frontend
+React • Next.js • Vue.js • Nuxt.js • Angular • TypeScript • JavaScript (ES6+) • Redux • RTK Query • Zustand • Tailwind CSS • Material UI • Bootstrap • HTML5 • CSS3 • SCSS
+
+### Backend
+Node.js • Express.js • NestJS • Python • FastAPI • Flask • Django • GraphQL • REST APIs • WebSockets • Microservices
+
+### AI & Data
+OpenAI • Claude • Gemini • LangChain • RAG • Vector Databases • LLM Applications • TensorFlow • PyTorch • Scikit-learn • NLP • Computer Vision • Pandas • NumPy
+
+### Databases
+MongoDB • PostgreSQL • MySQL • Redis • Elasticsearch • DynamoDB • Snowflake • BigQuery
+
+### Cloud & DevOps
+AWS • Azure • GCP • Docker • Kubernetes • GitHub Actions • Jenkins • CI/CD • Terraform • Linux
 
 ---
 
-## 🧰 Tools & Technologies
+## 🔥 What I Build
 
-```bash
-Python • TensorFlow • PyTorch • Scikit-learn • FastAPI • Flask  
-Pandas • NumPy • PySpark • Airflow • MLflow  
-AWS • Docker • Kubernetes • CI/CD  
-PostgreSQL • MongoDB • Snowflake • Redis  
-OpenAI API • REST APIs • Linux • Git
+- Enterprise SaaS Platforms
+- AI-Powered Web Applications
+- LLM & RAG Systems
+- Real-Time Analytics Dashboards
+- Scalable REST & GraphQL APIs
+- Cloud-Native Microservices
+- E-Commerce & Marketplace Platforms
+- Workflow Automation Solutions
+
+---
+
+## 📈 Highlights
+
+✔ Built scalable full-stack applications serving thousands of users
+
+✔ Designed AI-powered platforms utilizing LLMs, RAG, and vector search
+
+✔ Developed high-performance React, Next.js, Vue.js, and Angular applications
+
+✔ Architected cloud-native microservices on AWS using Docker and Kubernetes
+
+✔ Delivered production-ready APIs and backend systems with Node.js and Python
+
+---
+
+## 🧰 Technologies
+
+```text
+React • Next.js • Vue.js • Angular • TypeScript • JavaScript
+Node.js • Express.js • NestJS • Python • FastAPI • Django
+MongoDB • PostgreSQL • MySQL • Redis • Elasticsearch
+OpenAI • LangChain • RAG • TensorFlow • PyTorch
+AWS • Docker • Kubernetes • CI/CD • GitHub Actions
+GraphQL • REST APIs • Microservices • Linux • Git
+```
+
+---
+
+### 📫 Let's Connect
+
+Always interested in discussing software architecture, full-stack engineering, AI applications, and innovative technology solutions.
